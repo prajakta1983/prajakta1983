@@ -5,4 +5,7 @@
 - 📚 Learning JavaScript & React  
 - 🛠️ Building my portfolio with hands-on projects
 - [CSS Project- Cafe Menu] https://prajakta1983.github.io/CSS-Project-Camper-Cafe/
-- 🤝 Open for internships from September 2025
+- 🤝 Current goal: Internships from September-October 2025
+-  Target Job- Front End Developer by March 2026
+-  Let's connect[Linkdin profile]  https://www.linkedin.com/in/prajakta-tavargeri-29b9a4185/
+- 
